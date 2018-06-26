@@ -1,0 +1,6 @@
+ClientID,AccountNumber,AccountType,DateOpened
+1,C123112,Cheque,01-Jan
+1,HL232881,HomeLoan,02-Jan
+2,CC12212,CreditCard,30-Nov
+2,C1231233,Cheque,13-Dec-16
+3,S16899,Saving,01-Jul

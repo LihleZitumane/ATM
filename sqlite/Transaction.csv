@@ -1,0 +1,9 @@
+AccountID,Amount,Date
+8,100,01-Jan
+9,-1000,02-Jan
+10,-15,03-Jan
+8,-8,04-Jan
+8,-9,05-Jan
+10,-25,06-Jan
+11,200,07-Jan
+12,400,08-Jan
